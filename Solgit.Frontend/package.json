@@ -1,0 +1,26 @@
+{
+  "name": "solgit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamnop/solgit.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Chanwoong Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamnop/solgit/issues"
+  },
+  "homepage": "https://github.com/teamnop/solgit",
+  "dependencies": {
+    "electron-prebuilt": "^1.1.1"
+  }
+}
